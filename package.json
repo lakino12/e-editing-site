@@ -1,0 +1,10 @@
+{
+  "name": "video-editing-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Arabic (RTL) landing page for a real estate video editing service. Static site, no build step.",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "start": "npx --yes serve . -l 3000"
+  }
+}
